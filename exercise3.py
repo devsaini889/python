@@ -16,4 +16,16 @@ for i in range(0,n):
         print("*" , end=" ")
     print() 
 
-#More pattern soon
+#Printing a square pattern
+def hollow_square(size):
+  
+  for i in range(size):
+    for j in range(size):
+      if i == 0 or i == size - 1 or j == 0 or j == size - 1:
+        print("*", end="")
+      else:
+        print(" ", end="")
+    print()
+
+size = 5
+hollow_square(size)
