@@ -43,4 +43,16 @@ else:
     print("your answer is wrong")
     exit()
 
+Que3=["Which of the following is king of jungle of india? ","dog" , "lion", "sparrow","fox" ]
+print(Que3[0])
+print(f" a:{Que3[1]} \n b:{Que3[2]} \n c:{Que3[3]} \n d:{Que3[4]} ")
+
+correct_answer="b"
+m = input("Enter your answer:")
+if (m==correct_answer):
+    print(" you win prize 25000")
+        
+else:
+    print("your answer is wrong")
+    exit()
 #can generate more questions like this
