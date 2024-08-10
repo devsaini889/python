@@ -4,7 +4,8 @@ a = {
     "gadi": "car",
     "insaan": "human",
     "ladka": "boy",
-    "ladki": "girl"
+    "ladki": "girl",
+    "kutta": "Dog"
 }
 
 m = input("enter the word to be translated (or 1 to see all words): ")
