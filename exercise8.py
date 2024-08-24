@@ -1,6 +1,6 @@
 # A program to calculate the avg of marks of student using the Oop concept
 
-from itertools import tee
+
 
 
 class Student:
