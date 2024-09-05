@@ -1,3 +1,5 @@
+# a simple program to clear the clutter
+
 import os
 
 files = os.listdir("clear the clutter")
