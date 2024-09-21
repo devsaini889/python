@@ -1,4 +1,4 @@
-This is our first exercise and a calculator in python
+# This is our first exercise and a calculator in python
 
 a =  int(input(" Enter the first digit: "))
 b= int(input("Enter the second digit: "))
